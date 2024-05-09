@@ -1,0 +1,7 @@
+{"type":"test"}
+{"type":"singup","user":"zhiyong","pas":"cist321"}
+{"type":"singin","user":"zhiyong","pas":"cist321"}
+{"type":"message","from":"zhiyong","to":"jian","time":"123123","content":"xxxx","messageID":"123132321"}  
+{"type":"sendFriendRequest","from":"zhiyong","to":"jian","time":"2222222222","content":"somemessage"}
+{"type":"approveFriendRequest","from":"jian","to":"zhiyong","time":"345345345"}
+{"type":"declineFriendRequest","from":"jian","to":"zhiyong","time":"4536463456","content":"somemessage"}
